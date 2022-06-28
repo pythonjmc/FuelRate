@@ -7,7 +7,7 @@ Calculate whether or not you will have enough fuel to reach your destination.
 # Sources
 Game: RFS Real Flight Simulator
 
-https://discord.com/channels/665183274452254740/724543543422484521/791602762650484736
+channel: https://discord.com/channels/665183274452254740/724543543422484521/791602762650484736
 
 server: https://discord.gg/zn4srrWzvk
 
